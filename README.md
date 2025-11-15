@@ -16,7 +16,7 @@ A java-based tool for linear systems using Gaussian Elimination and Gauss-Jordan
 
 ## Project Structure
 
-> linear-system-solver/
+linear-system-solver/
 ├── Main.java
 ─── solver/
 
