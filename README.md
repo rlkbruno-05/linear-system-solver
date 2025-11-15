@@ -8,8 +8,6 @@ A java-based tool for linear systems using Gaussian Elimination and Gauss-Jordan
 - **Matrix validation** to ensure proper input dimensions
 - **Determinant calculation** during the elimination process
 - **Multiple solution types** detection (unique, infinite, or no solution)
-- **User-frindly input** handling for matrices and vectores
-- **Formatted output** for easy result interpretation
 
 ## Technologies
 - Java 17+
