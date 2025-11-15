@@ -1,0 +1,27 @@
+package solver;
+
+public class Utils {
+    
+    public static void printMatrix(double[][] m) {
+        for(double[] row : m) {
+            for (double x : row) {
+                System.out.printf("%8.3f", x);
+            }
+            System.out.println();
+        }
+    }
+
+    public static void imprimirMatriz(double[][] m) {
+        printMatrix(m);
+    }
+
+    public static void printVector(double[] v) {
+        for (int i = 0; i < v.length; i++) {
+            System.out.printf("x%d = %8.3f\n", i, v[i]);
+        }
+    }
+
+    public static void imprimirVetor(double[] v) {
+        printVector(v);
+    }
+}
