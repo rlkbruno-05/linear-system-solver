@@ -11,4 +11,3 @@ A java-based tool for linear system using Gaussian Elimination and Gauss-Jordan 
 
 ## Technologies
 - Java 17+
-- Maven (optional)
