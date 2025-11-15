@@ -29,7 +29,7 @@ A java-based tool for linear systems using Gaussian Elimination and Gauss-Jordan
 
 1. Clone the repository:
 
-    >git clone https://github.com/your-username/linear-system-solver.git
+    >git clone https://github.com/rlkbruno-05/linear-system-solver.git
     
     >cd linear-system-solver
 
